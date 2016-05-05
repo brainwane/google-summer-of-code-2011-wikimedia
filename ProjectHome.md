@@ -1,0 +1,5 @@
+This Google Code project serves as a portfolio for Google Summer of Code students' work on MediaWiki, as administered by the Wikimedia Foundation in 2011.  The main MediaWiki codebase is available at [http://www.mediawiki.org/wiki/Special:Code/MediaWiki](http://www.mediawiki.org/wiki/Special:Code/MediaWiki).  The [Wikimedia Foundation](http://www.wikimediafoundation.org) is a 501(c)3 non-profit company which operates Wikipedia and other community-built, open-source, free-content educational resource web sites.
+
+The MediaWiki open source project powers some of the largest collaboratively edited reference projects in the world, including Wikipedia, the fourth most visited website in the world.  This is our sixth year participating in Google Summer of Code.
+
+Imagine a world in which every single human being can freely share in the sum of all knowledge... That's what we're doing.
